@@ -1,5 +1,5 @@
 # Flappy Bird Game
-This is very Interesting Flappy Bird Game uisng Python module pygame. Increarses Logical Thinking and Introduction to Game Programming
+This is very Interesting Flappy Bird Game using Python module pygame. Increarses Logical Thinking and Introduction to Game Programming
 
 # How to Play the Game
 - Press space or Up arrow key to start the Game
